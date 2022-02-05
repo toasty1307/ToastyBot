@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyBot.Bot", "ToastyBot.Bot\ToastyBot.Bot.csproj", "{577BEF74-1439-44F5-B870-A2186F91E074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyBot.Data", "ToastyBot.Data\ToastyBot.Data.csproj", "{6DAD34F1-4F18-43B1-9B36-2A53AB0322F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyBot.Dashboard", "ToastyBot.Dashboard\ToastyBot.Dashboard.csproj", "{CD38E14D-7AF4-492C-8237-581A45D69ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577BEF74-1439-44F5-B870-A2186F91E074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577BEF74-1439-44F5-B870-A2186F91E074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577BEF74-1439-44F5-B870-A2186F91E074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577BEF74-1439-44F5-B870-A2186F91E074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAD34F1-4F18-43B1-9B36-2A53AB0322F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAD34F1-4F18-43B1-9B36-2A53AB0322F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAD34F1-4F18-43B1-9B36-2A53AB0322F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAD34F1-4F18-43B1-9B36-2A53AB0322F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD38E14D-7AF4-492C-8237-581A45D69ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD38E14D-7AF4-492C-8237-581A45D69ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD38E14D-7AF4-492C-8237-581A45D69ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD38E14D-7AF4-492C-8237-581A45D69ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

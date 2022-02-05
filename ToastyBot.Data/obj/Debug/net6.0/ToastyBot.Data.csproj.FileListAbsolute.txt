@@ -1,0 +1,12 @@
+C:\dev\ToastyBot\ToastyBot.Data\bin\Debug\net6.0\ToastyBot.Data.deps.json
+C:\dev\ToastyBot\ToastyBot.Data\bin\Debug\net6.0\ToastyBot.Data.dll
+C:\dev\ToastyBot\ToastyBot.Data\bin\Debug\net6.0\ref\ToastyBot.Data.dll
+C:\dev\ToastyBot\ToastyBot.Data\bin\Debug\net6.0\ToastyBot.Data.pdb
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.csproj.AssemblyReference.cache
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.AssemblyInfoInputs.cache
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.AssemblyInfo.cs
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.csproj.CoreCompileInputs.cache
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.dll
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ref\ToastyBot.Data.dll
+C:\dev\ToastyBot\ToastyBot.Data\obj\Debug\net6.0\ToastyBot.Data.pdb
